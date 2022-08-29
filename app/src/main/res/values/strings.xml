@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Theorem</string>
+    <string name="operation">Calculate \"C\"</string>
+    <string name="resultInfo">Result:&#160;</string>
+    <string name="resultOverall">Result:&#160;</string>
+    <string name="edTxtA">Enter a value&#160;\"А\"</string>
+    <string name="edTxtB">Enter a value&#160;\"B\"</string>
+    <string name="noHardCode">Enter a value</string>
+    <string name="errorMsg">The field must be filled in</string>
+    <string name="butPerform">Perform an operation</string>
+</resources>
